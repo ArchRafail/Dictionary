@@ -3,7 +3,8 @@
 </br>
 </br>
 The task was the next:</br>
-Create the program that allow to word with dictionary. For example English-Spanish, French-Germany or any other.</br>
+Create the program that allow to work with dictionary.</br>
+Dictionary can be, for example English-Spanish, French-Germany or any other.</br>
 This dictionary should:</br>
 + provide the initial input of the data to dictionary.</br>
 + allow to show the word and it translates.</br>
@@ -14,8 +15,8 @@ This dictionary should:</br>
 </br>
 </br>
 Program operating conditions.</br>
-1. Ukrainian - English dictionary. Main words - Ukrainian, translates - English.</br>
-2. Predefined 15 words to allow works with dictionary.</br>
+1. It is Ukrainian - English dictionary. Main words - Ukrainian, translates - English.</br>
+2. Presetted 15 words to allow user works with dictionary.</br>
 3. Dictionary method addWord() without parameters allow to add word with translates directly from console.</br>
 4. In dictionary method addWord(String[] words) must be putted each word separately and main Ukrainian word must be first.</br>
 5. In any adding, changin or deleting methods of translates words must be splitted with comma, if them will be more than 1.</br>
